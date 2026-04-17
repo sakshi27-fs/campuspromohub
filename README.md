@@ -14,9 +14,7 @@ CampusPromoHub
 https://gentle-platypus-525f7d.netlify.app
 
 
- Preview
-
-> *(Add 2–3 screenshots of your UI here — hero section, pricing, etc.)*
+ 
 
 
  Project Overview
@@ -81,14 +79,6 @@ campuspromohub/
 │── README.md         # Documentation
 
 Getting Started
-
-bash
-git clone https://github.com/your-username/campuspromohub.git
-cd campuspromohub
-
-
-Open `index.html` in your browser.
-
 
 
  What I Learned
