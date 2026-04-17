@@ -11,7 +11,7 @@ CampusPromoHub
 
  Live Demo
 
- https://your-site.netlify.app
+https://gentle-platypus-525f7d.netlify.app
 
 
  Preview
